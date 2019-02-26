@@ -4,6 +4,12 @@
 
 
 } */
+.Palette{
+  display: flex;
+  flex-direction: row;
+
+}
+
 .grid {
   border: 1px solid;
 }
