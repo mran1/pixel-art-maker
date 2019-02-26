@@ -1,10 +1,17 @@
-div{
+/* div{
   border-style: solid
 
 
 
+} */
+.grid {
+  border: 1px solid;
 }
 .row{
   display: flex;
   flex-direction: row;
+}
+.col{
+  display: flex;
+  flex-direction: column;
 }
